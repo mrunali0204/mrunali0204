@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=HELLO!;Welcome+to+my+profile!+🚀;Exploring+Backend+Development;Building+AI+and+ML+Projects;Learning+Data+Structures+and+Algorithms!+💻)  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1493&width=435&lines=Welcome+to+Mrunali's+Profile!+🚀;Passionate+about+Backend+Development!+💻)
 
 ## About Me ℹ️  
 🔭 I'm currently learning Data Structures & Algorithms.  
