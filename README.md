@@ -26,5 +26,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunali0204&theme=dark&hide_border=true)  
 
 [![Mrunali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrunali0204&show_icons=true&theme=dark&hide_border=true)](https://github.com/mrunali0204)  
+![GitHub Snake](https://github.com/mrunali0204/mrunali0204/blob/output/github-contribution-grid-snake.svg)
+
 
 🚀 **Let’s innovate and build something amazing together!** ✨  
