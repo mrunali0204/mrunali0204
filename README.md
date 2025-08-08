@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1493&width=435&lines=HELLO!;Welcome+to+my+profile!+🚀;Exploring+Backend+Development;Building+AI+and+ML+Projects;Learning+Data+Structures+and+Algorithms+💻)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1493&width=435&lines=HELLO!;Welcome+to+my+profile!+;Exploring+Backend+Development;Building+AI+and+ML+Projects;Learning+Data+Structures+and+Algorithms+)
 
 ## About Me 
 🔭 I'm currently learning Data Structures & Algorithms.  
