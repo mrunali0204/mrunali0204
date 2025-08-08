@@ -1,5 +1,8 @@
 name: Generate Snake
 
+permissions:
+  contents: write   #Allow workflow to push to repo
+
 on:
   schedule:
     - cron: "0 0 * * *" # Run daily at midnight
