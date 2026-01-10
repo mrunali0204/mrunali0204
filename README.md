@@ -43,14 +43,22 @@
 
 ---
 
-<!-- Stats Section -->
+## 📊 GitHub Performance  
+
+<!-- Stats + Streak -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrunali0204&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrunali0204&theme=radical&hide_border=true" width="48%" />
 </p>
 
+<!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrunali0204&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffb6c1&hide_border=true" />
+</p>
+
+<!-- Extra Streak Visual -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrunali0204&theme=radical" />
 </p>
 
 ---
@@ -63,6 +71,7 @@
 ---
 
 ## 🌱 Currently Learning  
+
 ✔️ Advanced **DSA (Java)**  
 ✔️ Backend fundamentals  
 ✔️ AI & ML basics  
@@ -70,14 +79,12 @@
 
 ---
 
-<!-- Connect Section -->
 ## 🤝 Connect With Me  
 
 <p align="center">
   <a href="https://github.com/mrunali0204">
     <img src="https://img.shields.io/badge/GitHub-ff1493?style=for-the-badge&logo=github&logoColor=white" />
   </a>
- 
 </p>
 
 ---
@@ -88,4 +95,3 @@
 </p>
 
 ✨ *Learning every day. Improving every commit.* ✨
-
