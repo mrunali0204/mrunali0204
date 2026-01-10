@@ -77,9 +77,7 @@
   <a href="https://github.com/mrunali0204">
     <img src="https://img.shields.io/badge/GitHub-ff1493?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
