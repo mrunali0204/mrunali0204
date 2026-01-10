@@ -1,31 +1,93 @@
-# Welcome to My GitHub Profile! 
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=250&section=header&text=Hi%20I'm%20Mrunali!&fontSize=50&fontAlignY=40&desc=Electronics%20Engineering%20Student%20%7C%20DSA%20Learner%20%7C%20AI%20Enthusiast&descAlignY=60&animation=fadeIn" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1493&width=435&lines=HELLO!;Welcome+to+my+profile!+;Exploring+Backend+Development;Building+AI+and+ML+Projects;Learning+Data+Structures+and+Algorithms+)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+DSA+Step+by+Step;Exploring+Backend+Development;Building+AI+%26+ML+Projects;Consistency+%3E+Motivation" />
+</p>
 
-## About Me 
-🔭 I'm currently learning Data Structures & Algorithms.  
-🎓 I'm pursuing **B.Tech in Electronics Engineering**.  
-💡 Passionate about **Development, AI, and Problem-Solving**.  
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
 
-## Skills & Technologies   
+---
 
-### Programming Languages:  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+## 👩‍💻 About Me  
 
-###  Development Tools & Technologies:  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+✨ **B.Tech in Electronics Engineering**  
+🔭 Learning **Data Structures & Algorithms**  
+💡 Interested in **Backend Development, AI & ML**  
+🚀 Passionate about **Problem Solving & Real-World Projects**
 
-## 📊 GitHub Stats  
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunali0204&theme=dark&hide_border=true)  
+<!-- Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a94-59d5-4c3c-bb33-47d7e2d6b4b6.gif" width="80%" />
+</p>
 
-[![Mrunali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrunali0204&show_icons=true&theme=dark&hide_border=true)](https://github.com/mrunali0204)  
+## 🛠️ Skills & Technologies  
 
+### 💻 Programming Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript" />
+</p>
 
-**Let’s innovate and build something amazing together!** 
+### 🌐 Web & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,intellij" />
+</p>
+
+---
+
+<!-- Stats Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrunali0204&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrunali0204&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrunali0204&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffb6c1&hide_border=true" />
+</p>
+
+---
+
+<!-- Floating Tech GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+</p>
+
+---
+
+## 🌱 Currently Learning  
+✔️ Advanced **DSA (Java)**  
+✔️ Backend fundamentals  
+✔️ AI & ML basics  
+✔️ LeetCode problem solving  
+
+---
+
+<!-- Connect Section -->
+## 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/mrunali0204">
+    <img src="https://img.shields.io/badge/GitHub-ff1493?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer"/>
+</p>
+
+✨ *Learning every day. Improving every commit.* ✨
+
