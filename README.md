@@ -48,15 +48,16 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mrunali0204&show_icons=true&theme=radical&hide_border=true&v=1" 
+    src="https://github-readme-stats.vercel.app/api?username=mrunali0204&show_icons=true&theme=radical&hide_border=true" 
     width="48%" 
   />
 
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=mrunali0204&theme=radical&v=1" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrunali0204&theme=radical&utcOffset=5.5" 
     width="48%" 
   />
 </p>
+
 
 
 
