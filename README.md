@@ -19,7 +19,6 @@
 
 ✨ **B.Tech in Electronics Engineering**  
 🔭 Learning **Data Structures & Algorithms**  
-💡 Interested in **Backend Development, AI & ML**  
 🚀 Passionate about **Problem Solving & Real-World Projects**
 
 ---
@@ -43,14 +42,15 @@
 
 ---
 
-## 📊 GitHub Performance  
 
 <!-- Stats + Streak -->
 ## 📊 GitHub Performance  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrunali0204&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=mrunali0204&theme=radical&hide_border=true" width="48%" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=mrunali0204&theme=radical" />
+
 </p>
 
 
@@ -75,8 +75,7 @@
 
 ## 🌱 Currently Learning  
 
-✔️ Advanced **DSA (Java)**  
-✔️ Backend fundamentals  
+✔️ Advanced **DSA**   
 ✔️ AI & ML basics  
 ✔️ LeetCode problem solving  
 
