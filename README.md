@@ -1,18 +1,17 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=250&section=header&text=Hi%20I'm%20Mrunali!&fontSize=50&fontAlignY=40&desc=Electronics%20Engineering%20Student%20%7C%20DSA%20Learner%20%7C%20AI%20Enthusiast&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff79c6&height=250&section=header&text=Hi%20I'm%20Mrunali!&fontSize=50&fontAlignY=40&desc=Electronics%20Engineering%20Student%20%7C%20DSA%20Learner%20%7C%20AI%20Enthusiast&descAlignY=60&animation=fadeIn&fontColor=c9d1d9" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+DSA+Step+by+Step;Exploring+Backend+Development;Building+AI+%26+ML+Projects;Consistency+%3E+Motivation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff79c6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+DSA+Step+by+Step;Exploring+Backend+Development;Building+AI+%26+ML+Projects;Consistency+%3E+Motivation" />
 </p>
 
 <!-- Coding GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me  
@@ -43,33 +42,20 @@
 ---
 
 
-<!-- Stats + Streak -->
-## 📊 GitHub Performance  
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mrunali0204&show_icons=true&theme=radical&hide_border=true" 
-    width="48%" 
-  />
+## GitHub Stats
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrunali0204&theme=radical&utcOffset=5.5" 
-    width="48%" 
-  />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=mrunali0204&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffb6c1&hide_border=false)<br/>
+
 
 
 
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrunali0204&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffb6c1&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrunali0204&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffb6c1&hide_border=true&hide_border=false" />
 </p>
 
-<!-- Extra Streak Visual -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrunali0204&theme=radical" />
-</p>
 
 ---
 
@@ -80,13 +66,6 @@
 
 ---
 
-## 🌱 Currently Learning  
-
-✔️ Advanced **DSA**   
-✔️ AI & ML basics  
-✔️ LeetCode problem solving  
-
----
 
 ## 🤝 Connect With Me  
 
