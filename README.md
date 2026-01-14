@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff79c6&height=250&section=header&text=Hi%20I'm%20Mrunali!&fontSize=50&fontAlignY=40&desc=Electronics%20Engineering%20Student%20%7C%20DSA%20Learner%20%7C%20AI%20Enthusiast&descAlignY=60&animation=fadeIn&fontColor=c9d1d9" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff79c6&height=250&section=header&text=Hi%20I'm%20Mrunali!&fontSize=50&fontAlignY=40&desc=Electronics%20Engineering%20Student%20%7C%20DSA%20Learner%20%7C%20AI&descAlignY=60&animation=fadeIn&fontColor=c9d1d9" />
 </p>
 
 <!-- Typing Animation -->
