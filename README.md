@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff79c6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+DSA+Step+by+Step;I understand how computers actually work !;Building+AI+%26+ML+Projects;Consistency+%3E+Motivation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff79c6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+DSA+Step+by+Step;I+understand+how+computers+actually+work+!;Building+AI+%26+ML+Projects;Consistency+%3E+Motivation" />
 </p>
 
 <!-- Coding GIF -->
