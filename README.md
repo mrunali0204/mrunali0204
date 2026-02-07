@@ -122,6 +122,7 @@
   </a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunali0204&label=Profile%20views&color=0e75b6&style=flat" alt="mrunali0204" /> </p>
 
 
 <!-- Footer Wave -->
