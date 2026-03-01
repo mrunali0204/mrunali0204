@@ -18,7 +18,7 @@
 
  **B.Tech in Electronics Engineering**  
  Learning **Data Structures & Algorithms**  
- Passionate about **Problem Solving & Real-World Projects**
+ **I love understanding how computers actually works!**
 
 
 
