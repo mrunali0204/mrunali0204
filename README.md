@@ -17,7 +17,6 @@
 ## About Me  
 
  **B.Tech in Electronics Engineering**  
- Learning **Data Structures & Algorithms**  
 
 
 
