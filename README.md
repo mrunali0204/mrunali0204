@@ -97,6 +97,14 @@
 
 
 
+<div align="center">
+
+
+<td width="50%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrunali0204&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
+</td>
+
+
 <!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrunali0204&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffb6c1&hide_border=true&hide_border=false" />
