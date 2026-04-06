@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1717,100:ff79c6&height=250&section=header&text=Hi%20I'm%20Mrunali!&fontSize=50&fontAlignY=40&desc=Electronics%20Engineering%20Student%20%7C%20DSA%20Learner%20%7C%20AI&descAlignY=60&animation=fadeIn&fontColor=c9d1d9" />
 </p>
 
-
-<!-- Typing Animation -->
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff79c6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+DSA+Step+by+Step;I+understand+how+computers+actually+work+!;Building+AI+%26+ML+Projects;Consistency+%3E+Motivation" />
