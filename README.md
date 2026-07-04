@@ -1,19 +1,16 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1717,100:ff79c6&height=250&section=header&text=Hi%20I'm%20Mrunali!&fontSize=50&fontAlignY=40&desc=Electronics%20Engineering%20Student%20%7C%20DSA%20Learner%20%7C%20AI&descAlignY=60&animation=fadeIn&fontColor=c9d1d9" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1717,100:ff79c6&height=250&section=header&text=Hi%20I'm%20Mrunali!&fontSize=50&fontAlignY=40&desc=Electronics%20Engineering%20Student%20%7C%20DSA%20%7C%20Computer%20Graphics&descAlignY=60&animation=fadeIn&fontColor=c9d1d9" />
 </p>
 
 
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff79c6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+DSA+Step+by+Step;I+understand+how+computers+actually+work+!;Building+AI+%26+ML+Projects;Consistency+%3E+Motivation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff79c6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!" />
 </p>
 
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-</p>
+
 
 
 ## About Me  
@@ -126,7 +123,7 @@
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunali0204&label=Profile%20views&color=0e75b6&style=flat" alt="mrunali0204" /> </p>
+
 
 
 <!-- Footer Wave -->
