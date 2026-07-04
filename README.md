@@ -123,7 +123,10 @@
   </a>
 </p>
 
-
+  <a href="https://leetcode.com/u/Mrunali_Jibhakate/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 
 <!-- Footer Wave -->
